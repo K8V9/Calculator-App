@@ -1,4 +1,6 @@
 # Calculator-App
 A simple Calculator app made with HTML, CSS, JavaScript
 
-added a little fun easter egg!
+Visit here: https://k8v9.github.io/Calculator-App/
+
+Added a little fun easter egg!
